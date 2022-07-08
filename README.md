@@ -1,4 +1,4 @@
-### AnonXStringBot
+# StringBot
 
 # Installing 
 
@@ -17,3 +17,4 @@
 
 - [Telethon](https://telethon.org)
 - [Pyrogram](https://pyrogram.org)
+
