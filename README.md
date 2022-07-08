@@ -13,7 +13,7 @@
 
 </details>
 
-# Libraries you can get string session of
+# Libraries 
 
 - [Telethon](https://telethon.org)
 - [Pyrogram](https://pyrogram.org)
