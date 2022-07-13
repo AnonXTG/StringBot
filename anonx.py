@@ -1,3 +1,8 @@
+# This file is a part of https://github.com/AnonXTG/StringBot.
+# Use with credits.
+# © by Team AnonX.
+
+
 import Config
 import logging
 from pyromod import listen
@@ -20,7 +25,6 @@ app = Client(
 )
 
 
-# Run Bot
 if __name__ == "__main__":
     try:
         app.start()
